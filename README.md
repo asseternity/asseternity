@@ -4,20 +4,29 @@
 React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker  
 
 <p align="center">
-  <a href="https://assetn.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" alt="Portfolio"/>
-  </a> 
-  <a href="https://github.com/asseternity">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" alt="GitHub"/>
-  </a> 
-  <a href="https://www.linkedin.com/in/assetnakupov/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn"/>
-  </a> 
-  <a href="mailto:asset_n@proton.me">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="26" alt="Email"/>
-  </a> 
-  <span>📍 Tbilisi, Georgia</span>
+  <a href="https://assetn.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         width="24" alt="Portfolio"
+         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+  </a>
+  <a href="https://github.com/asseternity" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="24" alt="GitHub"
+         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+  </a>
+  <a href="https://linkedin.com/in/assetnakupov" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="24" alt="LinkedIn"
+         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+  </a>
+  <a href="mailto:asset_n@proton.me" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+         width="24" alt="Email"
+         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+  </a>
 </p>
+
+📍 Tbilisi, Georgia  
 _Open to remote and relocation opportunities._
 
 ---
