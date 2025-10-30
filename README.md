@@ -3,7 +3,21 @@
 **Middle Full-Stack TypeScript Developer**  
 React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker  
 
-🌐 [Portfolio](https://assetn.dev) · 💻 [GitHub](https://github.com/asseternity) · 📄 [CV](https://tinyurl.com/55777cd9) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
+<p align="center">
+  <a href="https://assetn.dev">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" alt="Portfolio"/>
+  </a> 
+  <a href="https://github.com/asseternity">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" alt="GitHub"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/assetnakupov/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn"/>
+  </a> 
+  <a href="mailto:asset_n@proton.me">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" width="26" alt="Email"/>
+  </a> 
+  <span>📍 Tbilisi, Georgia</span>
+</p>
 _Open to remote and relocation opportunities._
 
 ---
