@@ -3,7 +3,7 @@
 **Middle Full-Stack TypeScript Developer**  
 React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
 
-🌐 [Portfolio](https://assetn.dev) · 💻 [LinkedIn]([https://www.linkedin.com/in/asset-nakupov-b705bab7/]) · 📄 [CV](https://tinyurl.com/55777cd9) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
+🌐 [Portfolio](https://assetn.dev) · 💻 [LinkedIn](https://www.linkedin.com/in/asset-nakupov-b705bab7/) · 📄 [CV](https://tinyurl.com/55777cd9) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
 _Open to remote and relocation opportunities._
 
 ## 🧭 About Me
