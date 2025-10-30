@@ -97,15 +97,4 @@ This rigor now drives architecture clarity, documentation discipline, and struct
 
 ---
 
-<details>
-<summary>🧠 <b>Background</b></summary>
-
-Before engineering, I spent **7+ years as a Senior Associate in BigLaw**, managing $100M+ M&A and dispute resolution cases across energy and finance sectors.  
-
-That legal training shapes how I code — **structured thinking**, **fast learning**, **soft skills**, and **precise problem framing**.  
-I approach software architecture with the same discipline and clarity that once won praise from The Legal 500.
-</details>
-
----
-
 ⭐ _“Structured thinking and system design discipline from BigLaw meets the TypeScript ecosystem.”_
