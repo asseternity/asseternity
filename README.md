@@ -10,14 +10,6 @@ React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
     Portfolio
   </a>
 
-  <!-- GitHub (icon-only button) -->
-  <a href="https://github.com/asseternity" rel="noopener noreferrer"
-     style="display:inline-flex; align-items:center; justify-content:center; width:36px; height:36px; margin-right:8px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none;">
-    <img alt="GitHub" width="20" height="20"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         style="display:block;" />
-  </a>
-
   <!-- LinkedIn (icon-only button) -->
   <a href="https://linkedin.com/in/assetnakupov" rel="noopener noreferrer"
      style="display:inline-flex; align-items:center; justify-content:center; width:36px; height:36px; margin-right:8px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none;">
