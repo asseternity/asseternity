@@ -1,36 +1,45 @@
 # 👋 Asset Nakupov
 
 **Middle Full-Stack TypeScript Developer**  
-React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker  
+React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
 
-<p align="center">
-  <a href="https://assetn.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="Portfolio"
-         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+<p align="left" style="margin: 12px 0;">
+  <!-- Portfolio (text button) -->
+  <a href="https://assetn.dev" rel="noopener noreferrer"
+     style="display:inline-flex; align-items:center; justify-content:center; height:36px; padding:0 14px; margin-right:8px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none; font-weight:600; color:#111;">
+    Portfolio
   </a>
-  <a href="https://github.com/asseternity" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"
-         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+
+  <!-- GitHub (icon-only button) -->
+  <a href="https://github.com/asseternity" rel="noopener noreferrer"
+     style="display:inline-flex; align-items:center; justify-content:center; width:36px; height:36px; margin-right:8px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none;">
+    <img alt="GitHub" width="20" height="20"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         style="display:block;" />
   </a>
-  <a href="https://linkedin.com/in/assetnakupov" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"
-         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+
+  <!-- LinkedIn (icon-only button) -->
+  <a href="https://linkedin.com/in/assetnakupov" rel="noopener noreferrer"
+     style="display:inline-flex; align-items:center; justify-content:center; width:36px; height:36px; margin-right:8px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none;">
+    <img alt="LinkedIn" width="20" height="20"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         style="display:block;" />
   </a>
-  <a href="mailto:asset_n@proton.me" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="24" alt="Email"
-         style="background: white; border-radius: 10px; padding: 8px; margin: 6px; box-shadow: 0 0 6px rgba(0,0,0,0.1);" />
+
+  <!-- Email (text button) -->
+  <a href="mailto:asset_n@proton.me"
+     style="display:inline-flex; align-items:center; justify-content:center; height:36px; padding:0 14px; background:#fff; border:1px solid rgba(0,0,0,0.08); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,0.08); text-decoration:none; font-weight:600; color:#111;">
+    Email
   </a>
 </p>
 
 📍 Tbilisi, Georgia  
 _Open to remote and relocation opportunities._
 
----
-
 ## 🧭 About Me
-I build **scalable, production-ready web applications** and integrations with structured thinking.  
-I own the **full lifecycle** — API design, data modeling, auth & security, testing (Vitest/TDD), and CI/CD.  
-I enjoy designing systems that are **easy to extend, reason about, and scale** across the full TypeScript ecosystem.
+I build scalable, production-ready web applications and integrations with structured thinking.  
+I own the full lifecycle — API design, data modeling, auth & security, testing (Vitest/TDD), and CI/CD.  
+I enjoy designing systems that are easy to extend, reason about, and scale across the full TypeScript ecosystem.
 
 ---
 
