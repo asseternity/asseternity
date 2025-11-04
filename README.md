@@ -1,6 +1,6 @@
 # 👋 Asset Nakupov
 
-**Full-Stack TypeScript Developer (React · Node.js · PostgreSQL · Prisma) | Founder @ assetn.dev | Ex-BigLaw Senior**  
+**Full-Stack TypeScript Developer | Founder @ assetn.dev | Ex-BigLaw Senior**  
 React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
 
 🌐 [Portfolio](https://assetn.dev) · 💻 [LinkedIn](https://www.linkedin.com/in/asset-nakupov-b705bab7/) · 📄 [CV](https://assetn.dev/cv.pdf) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
