@@ -44,24 +44,12 @@ Python (pandas, XGBoost) · C#, .NET, ASP.NET · Telegram Bots · Game Dev (Unit
 <details>
 <summary>💼 <b>Professional Experience</b></summary>
 
-### **Freelance Full-Stack TypeScript Developer — assetn.dev**  
-📍 Tbilisi, Georgia · 🗓️ Nov 2023 – Present  
+### **Founder & Full-Stack Developer — assetn.dev**  
+📍 Tbilisi, Georgia · 🗓️ May 2023 – Present  
 
-Design, build, and deploy **full-stack web applications** for clients and personal projects.  
-Focus on **REST APIs**, database design, authentication, testing, and CI/CD automation.
+Designed and developed 7+ full-stack web applications and internal tools with 1,000s of user messages under the assetn.dev brand. Led all aspects of product design, backend architecture, and CI/CD. Delivered production-grade solutions using TypeScript, React, Node.js, Prisma, and PostgreSQL.
 
-**Key Focus Areas:**  
-API & data-model architecture · Auth & Security · TDD · CI/CD · Data Visualization  
-
-**Selected Projects:**  
-- **Soleira Lounge** — Full-stack social platform with JWT auth, real-time messaging (1000s of messages), and notifications.  
-  _React · Node.js · PostgreSQL · Prisma_  
-- **Viva Verso** — Blog / newsletter CMS with dual frontends (public + admin).  
-  _React · Express · Prisma_  
-- **Matcha Updater Bot** — TypeScript Telegram bot integrating web scraping and scheduling.  
-  _Node.js · Railway_  
-- **What Makes Lands Happy** — Data visualization + analytics app connecting Python data pipelines with TypeScript frontend.  
-  _React · Tailwind · Vite · pandas · seaborn_
+Focus Areas: REST APIs · Database Architecture · Auth & Security · CI/CD · TDD · Data Visualization (python, pandas, seaborn).
 
 ---
 
