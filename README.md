@@ -1,4 +1,4 @@
-# 👋 Asset Nakupov
+# Asset Nakupov
 
 **Full-Stack TypeScript Developer | Founder @ assetn.dev | Ex-BigLaw Senior**  
 React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
