@@ -1,15 +1,14 @@
 # Asset Nakupov
 
-**Full-Stack TypeScript Developer | Founder @ assetn.dev | Ex-BigLaw Senior**  
-React · Node.js · PostgreSQL · Prisma · Vitest / TDD · Docker
+**Middle Full-Stack Engineer @ Yolwise | Ex-BigLaw Senior**  
+React · Node.js · .NET · PostgreSQL · Prisma · TDD · Docker · Kafka
 
 🌐 [Website](https://assetn.dev) · 💻 [LinkedIn](https://www.linkedin.com/in/asset-nakupov-b705bab7/) · 📄 [CV](https://assetn.dev/cv.pdf) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
 _Open to remote and relocation opportunities._
 
 ## 🧭 About Me
-I built 7+ scalable, production-ready, full-stack web applications and integrations with 1,000s of user messages, using structured thinking.
-I own the full lifecycle — API design, data modeling, auth & security, testing (Vitest/TDD), and CI/CD.  
-I enjoy designing systems that are easy to extend, reason about, and scale across the full TypeScript ecosystem.
+I ship production features and debug complex multi-service systems at Yolwise — working across Go, TypeScript, .NET, Kafka, and SOAP/GDS integrations on a live travel platform. Recent work includes restoring ~85% of suppressed flight inventory across 10+ major carriers and rearchitecting an async Kafka-driven booking pipeline to eliminate silent payment failures.
+Before that, I built 7+ production-ready full-stack applications end-to-end under assetn.dev — owning API design, data modeling, auth, testing (Vitest/TDD), and CI/CD. Before engineering, 7 years as a Senior Associate at Morgan Lewis (BigLaw), leading $100M+ M&A cases.
 
 ---
 
@@ -44,8 +43,16 @@ Python (pandas, XGBoost) · C#, .NET, ASP.NET · Telegram Bots · Game Dev (Unit
 <details>
 <summary>💼 <b>Professional Experience</b></summary>
 
+### **Full Stack Engineer — Yolwise**
+📍 Tbilisi, Georgia · 🗓️ Oct 2025 – Present · Remote
+
+Production backend engineering across a Go/TypeScript/.NET/Kafka/SOAP stack.
+Restored ~85% of suppressed GDS flight inventory across 10+ major carriers;
+refactored async Kafka booking pipeline; resolved cross-service root causes spanning
+three codebases simultaneously.
+
 ### **Founder & Full-Stack Developer — assetn.dev**  
-📍 Tbilisi, Georgia · 🗓️ May 2023 – Present  
+📍 Tbilisi, Georgia · 🗓️ May 2023 – Oct 2025  
 
 Designed and developed 7+ full-stack web applications and internal tools with 1,000s of user messages under the assetn.dev brand. Led all aspects of product design, backend architecture, and CI/CD. Delivered production-grade solutions using TypeScript, React, Node.js, Prisma, and PostgreSQL.
 
