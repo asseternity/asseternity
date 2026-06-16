@@ -3,7 +3,7 @@
 **Middle Full-Stack Engineer @ Yolwise | Ex-BigLaw Senior**  
 React · Node.js · .NET · PostgreSQL · Prisma · TDD · Docker · Kafka
 
-🌐 [Website](https://assetn.dev) · 💻 [LinkedIn](https://www.linkedin.com/in/asset-nakupov-b705bab7/) · 📄 [CV](https://assetn.dev/cv.pdf) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
+🌐 [Website](https://assetn.dev) · 💻 [LinkedIn](https://www.linkedin.com/in/asset-n-b705bab7/) · 📄 [CV](https://assetn.dev/cv.pdf) · ✉️ [asset_n@proton.me](mailto:asset_n@proton.me) · 📍 Tbilisi, Georgia  
 _Open to remote and relocation opportunities._
 
 ## 🧭 About Me
